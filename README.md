@@ -2,7 +2,7 @@
 
 Implémentation web du jeu de Go traditionnel en JavaScript vanilla, gérant l'intégralité des règles complexes du plateau sans framework externe.
 
-[▶️ Tester la démo en ligne](https://github.io/Dembolton/Projet-Dev_web)
+[▶️ Tester la démo en ligne](https://dembolton.github.io/Projet-Dev_web/)
 
 ![Aperçu de GOBAN JS](Projet-Dev_web/Img/Game_Content.png)
 
