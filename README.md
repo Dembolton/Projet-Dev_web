@@ -4,7 +4,7 @@ Implémentation web du jeu de Go traditionnel en JavaScript vanilla, gérant l'i
 
 [▶️ Tester la démo en ligne](https://dembolton.github.io/Projet-Dev_web/)
 
-![Aperçu de GOBAN JS](Projet dev_web/Img/Game_Content)
+![Aperçu de GOBAN JS](Img/Game_Content.png)
 
 ## Fonctionnalités et Algorithmique
 
@@ -17,7 +17,7 @@ Implémentation web du jeu de Go traditionnel en JavaScript vanilla, gérant l'i
 Projet en Vanilla JS sans dépendance d'installation.
 
 ### Option 1 : Directe
-Ouvrir directement le fichier `index.html` dans n'importe quel navigateur moderne.
+Ouvrir directement le fichier `Index.html` dans n'importe quel navigateur moderne.
 
 ### Option 2 : Serveur local
 ```bash
