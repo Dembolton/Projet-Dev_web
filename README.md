@@ -17,7 +17,7 @@ Implémentation web du jeu de Go traditionnel en JavaScript vanilla, gérant l'i
 Projet en Vanilla JS sans dépendance d'installation.
 
 ### Option 1 : Directe
-Ouvrir directement le fichier `index.html` dans n'importe quel navigateur moderne.
+Ouvrir directement le fichier `Index.html` dans n'importe quel navigateur moderne.
 
 ### Option 2 : Serveur local
 ```bash
